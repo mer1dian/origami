@@ -41,6 +41,10 @@ iframe {
 	width: 100%;
 }
 
+img {
+	max-width: 100%;
+}
+
 // Styles over specific to override layout body styles,
 // we possibly need to find a nicer way to do this?
 // (or we need to add a teaser-like thing to o-layout 😬)
